@@ -1,5 +1,20 @@
 Welcome to FOSDEM and thank you for volunteering to moderate talk chatrooms on [chat.fosdem.org](https://chat.fosdem.org).
 
+## Contents
+ 1. [In a nutshell](#In-a-nutshell)
+ 2. [Before the conference](#Before-the-conference)
+    a. [An account on Pentabarf](#An-account-on-Pentabarf)
+    b. [Link your account on volunteers.fosdem.org](#Link-your-account-on-volunteers.fosdem.org)
+    c. [Get in touch](#Get-in-touch)
+    d. [Watch the video](#Watch-the-video)
+ 3. [During the conference](#During-the-conference)
+    a. [The chatroom](#The-chatroom)
+    b. [Moderating](#Moderating)
+    c. [During the presentation](#During-the-presentation)
+    d. [During the Q&A](#During-the-Q-A)
+    e. [After the presentation](#After-the-presentation)
+ 4. [After the conference](#After-the-conference)
+
 ## In a nutshell
 You'll be the host of one or more talks. You'll moderate the chatroom, collect questions for the Q&A and ensure that the experience is smooth for both speaker and attendee.
 
@@ -40,7 +55,7 @@ You can view the video on this page. It could be that no video has been uploaded
 ## During the conference
 Test your setup, especially your microphone and webcam.
 
-### Enter the chatroom
+### The chatroom
 You should have received three invitations. One is for the main (public) chat room (think of this as the auditorium), where the viewers will be, and one is for the backstage chat room (think of this as the small room next to the auditorium), where you can talk with the speaker and any FOSDEM staff present in private. The third invitation is for the hallway track for the talk you are hosting.
 
  * [_#test:fosdem.org_](https://chat.fosdem.org/#/room/#test:fosdem.org) - the main devroom ("frontstage") where the presentation will be shown and the public will be (_note that this is a test devroom and doesn't actually work_).
@@ -50,6 +65,66 @@ You should have received three invitations. One is for the main (public) chat ro
  Ensure you are present and available at least 30 minutes before the talk is due to start, so that we know if something is wrong before the the presentation happens.
 
  If you are hosting multiple talks, you'll receive multiple invitations.
+
+### Moderating
+One of your more important jobs is moderating the chat. Usually FOSDEM attendees are civil and keep their discussions mostly on topic. However, from time to time they will need reminding or even are downright disruptive. You have some tools available in dealing with them.
+
+You can discuss with the speaker if you want, or with someone from the FOSDEM team.
+
+_How to contact FOSDEM?_
+
+#### Keeping discussions on topic
+Usually it's sufficient to request that the discussion remains on topic and to remind everybody that Q&A is for questions and not for monologues.
+
+If that does not help, try messaging the user in private or removing the message.
+
+#### Violations of the CoC
+Any message that violates the [Code of Conduct](https://fosdem.org/2022/practical/conduct/) (abusive, threatening, harassment) must be dealt with immediatly. You always have the full backing of the FOSDEM staff when taking a decision, so you should not fear taking action when required.
+
+### Available actions
+
+#### Messages
+![Message tools.](/images/message-edit-popup.png "Message tools.")
+To act on a single message, click on the three dots next to a message to bring up the message tools.
+
+##### Removing messages
+Any message can be removed by a moderator. Simply click on the three dots next to a message and click on the red garbage icon (_Remove_, or in Dutch, _Verwijderen_). The message will be removed.
+
+You can indicate in the room that you removed a message, but this is not required.
+
+##### Requesting a review for a message
+If you are not sure what action to take, you can report a message to the FOSDEM staff. Click on the exclamation mark (_Report_, or in Dutch, _Melden_) and the message will be brought to our CoC-team. This team will take the appropriate action and inform you.
+
+You should never fear to ask for help if you are not sure. We will not bite, and our bark has improved a lot lately ;-)
+
+#### User interaction
+![Overview of all users in the room.](/images/room-user-list.png "Overview of all users in the room.")
+Click on the info button (the _i_ in the top right corner) to bring up the list of users in the room. Click on the user you want to contact.
+
+![Available user interactions.](/images/user-details.png "Available user interactions.")
+You have a few options for user interaction.
+ * Send a private message.
+ * Mute.
+ * Remove from the room.
+ * Ban from the room.
+
+You can enter a publicly visible reason for a ban or a removal, but this is not required.
+
+##### Message the user in private
+Click on _Message_ (in Dutch _Bericht_) to open a private chat room between you and the user. You can then tell them what you wish to say, and they can react.
+
+You can tell them that they should remain on topic, nuance or remove the message. If necessary, you can also warn them that future violations will result in a ban.
+
+#### Mute the user
+You can mute the user, so they remain in the room, but can't post any new messages. This is a possibility if the user keeps on talking off-topic or asking irrelevant questions.
+
+#### Remove a user
+You can remove (kick) a user from a room. This is not a permanent removal; they can join the room again if they want.
+
+##### Banning a user
+You can ban a user from the room. This is obviously the last resort, but if the user is clearly trolling, harassing or disrupting the talk, this is the correct action to take.
+
+If you are uncertain, you can always contact the FOSDEM team.
 
 ### During the presentation
 _Image needed_
@@ -62,9 +137,6 @@ The video will be started by the FOSDEM magicians automatically at the scheduled
 During the talk, encourage attendees to ask questions and to upvote (messages can be upvated by reacting to the messages with a thumbs up, or downvote them with a thumbs down - see [here](https://fosdem.org/2022/practical/online/) for more details). You can discuss the questions with the speaker while the presentation is in progress in the _backstage_ room.
 
 Speakers can always answer questions in the chat themselves during the presentation.
-
-#### Moderating
-
 
 ### During Q&A
 ![Q&A will start soon.](/images/talk-about-to-end.png "Q&A will start soon.")
