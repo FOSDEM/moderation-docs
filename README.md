@@ -40,7 +40,7 @@ It can take some time before everything is configured correctly, as the changes 
 As soon as you have been confirmed as a host on one or more talks, get in touch with the speaker. Introduce yourself as the talk host to the speaker (we will provide you with a way to contact them) a few days before the conference, explaining what you will be doing during the conference.
 
 ### Watch the video
-Before the conference, take some time to watch the video so you know what it's about. If there is a problem with the video or the quality is not good, contact the speaker immediatly.
+Before the conference, take some time to watch the video so you know what it's about. If there is a problem with the video or the quality is not good, contact the speaker immediately.
 
 ![List of all your events.](/images/pentabarf-my-events.png "List of all your events.")
 Got to [penta.fosdem.org/submission/FOSDEM22/events](https://penta.fosdem.org/submission/FOSDEM22/events) to see the list of talks you have been confirmed as host of. Click on each of the talks you see in the list to go to the talk details page.
@@ -79,7 +79,7 @@ Usually it's sufficient to request that the discussion remains on topic and to r
 If that does not help, try messaging the user in private or removing the message.
 
 #### Violations of the CoC
-Any message that violates the [Code of Conduct](https://fosdem.org/2022/practical/conduct/) (abusive, threatening, harassment) must be dealt with immediatly. You always have the full backing of the FOSDEM staff when taking a decision, so you should not fear taking action when required.
+Any message that violates the [Code of Conduct](https://fosdem.org/2022/practical/conduct/) (abusive, threatening, harassment) must be dealt with immediately. You always have the full backing of the FOSDEM staff when taking a decision, so you should not fear taking action when required.
 
 ### Available actions
 
@@ -149,7 +149,7 @@ Before the Q&A starts (at the very latest when the bot posts the message), start
 Depending on how long the video presentation took, you might not have a lot of time to answer questions. Be sure to time this right so you can answer the most interesting questions live. You will not be able to stop the next talk from starting, as this is all FOSDEM magic.
 
 ### After the presentation
-The discussion can continue in the virtual hallway, which is created for every talk. You should moderate the discussion in the hallway to make sure the [Code of Conduct](https://fosdem.org/2022/practical/conduct/) is resepected.
+The discussion can continue in the virtual hallway, which is created for every talk. You should moderate the discussion in the hallway to make sure the [Code of Conduct](https://fosdem.org/2022/practical/conduct/) is respected.
 
 It is possible that there is not really a lot going on in the hallway; don't feel pressured to keep the conversation going if there is not really much interest.
 
