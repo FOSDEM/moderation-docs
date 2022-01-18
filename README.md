@@ -41,12 +41,15 @@ You can view the video on this page. It could be that no video has been uploaded
 Test your setup, especially your microphone and webcam.
 
 ### Enter the chatroom
-You should have received two invitations. One is for the main (public) chat room, where the viewers will be, and one is for the backstage chat room, where you can talk with the speaker and any FOSDEM staff present in private.
+You should have received three invitations. One is for the main (public) chat room (think of this as the auditorium), where the viewers will be, and one is for the backstage chat room (think of this as the small room next to the auditorium), where you can talk with the speaker and any FOSDEM staff present in private. The third invitation is for the hallway track for the talk you are hosting.
 
  * [_#test:fosdem.org_](https://chat.fosdem.org/#/room/#test:fosdem.org) - the main devroom ("frontstage") where the presentation will be shown and the public will be (_note that this is a test devroom and doesn't actually work_).
  * [_#test-backstage:fosdem.org_](https://chat.fosdem.org/#/room/#test-backstage:fosdem.org) - the backstage ("backstage") chat room (by invitation only) where you can speak with the presenter in private.
+ * [_#test-talk_slug:fosdem.org_](https://chat.fosdem.org/#/room/#test-talk_slug:fosdem.org) - the hallway track for this particular talk. This is a public room.
 
  Ensure you are present and available at least 30 minutes before the talk is due to start, so that we know if something is wrong before the the presentation happens.
+
+ If you are hosting multiple talks, you'll receive multiple invitations.
 
 ### During the presentation
 _Image needed_
@@ -60,16 +63,23 @@ During the talk, encourage attendees to ask questions and to upvote (messages ca
 
 Speakers can always answer questions in the chat themselves during the presentation.
 
+#### Moderating
+
+
 ### During Q&A
 ![Q&A will start soon.](/images/talk-about-to-end.png "Q&A will start soon.")
 As soon as the video reaches its end, the bot will announce that Q&A is starting.
 
 _Below needs to be verified_
+
 Before the Q&A starts (at the very latest when the bot posts the message), start a video conversation in the backstage room with the speaker. As soon as the presentation has ended, this video conversation will be streamed live in the "frontstage". You can then present some interesting questions to the speaker they can answer live on stage.
 
-Depending on how long the video presentation took, you might not have a lot of time to answer questions. Be sure to time this right so you can answer the most interesting questions live. You will not be able to stop the next talk from starting, as this is all FOSDEM magic ...
+Depending on how long the video presentation took, you might not have a lot of time to answer questions. Be sure to time this right so you can answer the most interesting questions live. You will not be able to stop the next talk from starting, as this is all FOSDEM magic.
 
 ### After the presentation
-hallway track #cicd-identifying_performance_changes_using_peass:fosdem.org
+The discussion can continue in the virtual hallway, which is created for every talk. You should moderate the discussion in the hallway to make sure the [Code of Conduct](https://fosdem.org/2022/practical/conduct/) is resepected.
+
+It is possible that there is not really a lot going on in the hallway; don't feel pressured to keep the conversation going if there is not really much interest.
 
 ## After the conference
+The FOSDEM team would like to thank you explicitly for taking on the role of "host" (or "moderator" or whatever) for one or more talks. We could not organise the conference without you, so thank you very much!
