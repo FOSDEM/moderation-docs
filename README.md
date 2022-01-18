@@ -43,10 +43,25 @@ Test your setup, especially your microphone and webcam.
 ### Enter the chatroom
 You should have received two invitations. One is for the main (public) chat room, where the viewers will be, and one is for the backstage chat room, where you can talk with the speaker and any FOSDEM staff present in private.
 
-If you did not receive any invitation
+ * [_#test:fosdem.org_](https://chat.fosdem.org/#/room/#test:fosdem.org) - the main devroom where the presentation will be shown and the public will be (_note that this is a test devroom and doesn't actually work_).
+ * [_#test-backstage:fosdem.org_](https://chat.fosdem.org/#/room/#test-backstage:fosdem.org) - the backstage chat room (by invitation only) where you can speak with the presenter in private.
+
+ Ensure you are present and available at least 30 minutes before the talk is due to start, so that we know if something is wrong before the the presentation happens.
 
 ### During the presentation
+![New talk is due to start soon.](/images/announcement-next-talk.png "New talk is due to start soon.")
+The video will be started by the FOSDEM magicians automatically at the scheduled time. A bot will announce that the next talk is due to start. All talks are prerecorded, so during the talk the presenter is available to chat with in the _backstage_ room.
+
+![An upvoted question.](/images/an-upvoted-question.png "An upvoted question.")
+During the talk, encourage attendees to ask questions and to upvote (messages can be upvated by reacting to the messages with a thumbs up, or downvote them with a thumbs down - see [here](https://fosdem.org/2022/practical/online/) for more details). You can discuss the questions with the speaker while the presentation is in progress in the _backstage_ room.
 
 ### During Q&A
+![Q&A will start soon.](/images/talk-about-to-end.png "Q&A will start soon.")
+As soon as the video reaches its end, the bot will announce that Q&A is starting.
+
+Questions are answered live
+
+### After the presentation
+hallway track #cicd-identifying_performance_changes_using_peass:fosdem.org
 
 ## After the conference
