@@ -71,12 +71,10 @@ One of your more important jobs is moderating the chat. Usually FOSDEM attendees
 
 You can discuss with the speaker if you want, or with someone from the FOSDEM team.
 
-_How to contact FOSDEM?_
-
 #### Keeping discussions on topic
 Usually it's sufficient to request that the discussion remains on topic and to remind everybody that Q&A is for questions and not for monologues.
 
-If that does not help, try messaging the user in private or removing the message.
+If that does not help, try messaging the user in private or flagging the message.
 
 #### Violations of the CoC
 Any message that violates the [Code of Conduct](https://fosdem.org/2022/practical/conduct/) (abusive, threatening, harassment) must be dealt with immediately. You always have the full backing of the FOSDEM staff when taking a decision, so you should not fear taking action when required.
@@ -87,44 +85,21 @@ Any message that violates the [Code of Conduct](https://fosdem.org/2022/practica
 ![Message tools.](/images/message-edit-popup.png "Message tools.")
 To act on a single message, click on the three dots next to a message to bring up the message tools.
 
-##### Removing messages
-Any message can be removed by a moderator. Simply click on the three dots next to a message and click on the red garbage icon (_Remove_, or in Dutch, _Verwijderen_). The message will be removed.
-
-You can indicate in the room that you removed a message, but this is not required.
-
-##### Requesting a review for a message
-If you are not sure what action to take, you can report a message to the FOSDEM staff. Click on the exclamation mark (_Report_, or in Dutch, _Melden_) and the message will be brought to our CoC-team. This team will take the appropriate action and inform you.
-
-You should never fear to ask for help if you are not sure. We will not bite, and our bark has improved a lot lately ;-)
+##### Flagging messages
+Any disruptive message can be reported to the FOSDEM moderation staff. Click on the exclamation mark (_Report_, or in Dutch, _Melden_) and the message will be brought to our CoC-team. This team will take the appropriate action and inform you.
 
 #### User interaction
 ![Overview of all users in the room.](/images/room-user-list.png "Overview of all users in the room.")
 Click on the info button (the _i_ in the top right corner) to bring up the list of users in the room. Click on the user you want to contact.
 
 ![Available user interactions.](/images/user-details.png "Available user interactions.")
-You have a few options for user interaction.
+You have one option for user interaction.
  * Send a private message.
- * Mute.
- * Remove from the room.
- * Ban from the room.
-
-You can enter a publicly visible reason for a ban or a removal, but this is not required.
 
 ##### Message the user in private
 Click on _Message_ (in Dutch _Bericht_) to open a private chat room between you and the user. You can then tell them what you wish to say, and they can react.
 
 You can tell them that they should remain on topic, nuance or remove the message. If necessary, you can also warn them that future violations will result in a ban.
-
-#### Mute the user
-You can mute the user, so they remain in the room, but can't post any new messages. This is a possibility if the user keeps on talking off-topic or asking irrelevant questions.
-
-#### Remove a user
-You can remove (kick) a user from a room. This is not a permanent removal; they can join the room again if they want.
-
-##### Banning a user
-You can ban a user from the room. This is obviously the last resort, but if the user is clearly trolling, harassing or disrupting the talk, this is the correct action to take.
-
-If you are uncertain, you can always contact the FOSDEM team.
 
 ### During the presentation
 _Image needed_
@@ -142,9 +117,9 @@ Speakers can always answer questions in the chat themselves during the presentat
 ![Q&A will start soon.](/images/talk-about-to-end.png "Q&A will start soon.")
 As soon as the video reaches its end, the bot will announce that Q&A is starting.
 
-_Below needs to be verified_
-
 Before the Q&A starts (at the very latest when the bot posts the message), start a video conversation in the backstage room with the speaker. As soon as the presentation has ended, this video conversation will be streamed live in the "frontstage". You can then present some interesting questions to the speaker they can answer live on stage.
+
+Please be aware that there is a 30 second delay between the conversation you are having and the stream. This also means that your video conversation in the backstage room will start streaming **30 seconds before it is visible in the main room**.
 
 Depending on how long the video presentation took, you might not have a lot of time to answer questions. Be sure to time this right so you can answer the most interesting questions live. You will not be able to stop the next talk from starting, as this is all FOSDEM magic.
 
