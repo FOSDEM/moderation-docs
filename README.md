@@ -124,6 +124,8 @@ As soon as the video reaches its end, the bot will announce that Q&A is starting
 
 Before the Q&A starts (at the very latest when the bot posts the message), start a video conversation in the backstage room with the speaker. As soon as the presentation has ended, this video conversation will be streamed live in the "frontstage". You can then present some interesting questions to the speaker they can answer live on stage.
 
+The technology for the video conversation is [Jitsi](https://jitsi.github.io/handbook/docs/intro).
+
 Please be aware that there is a 30 second delay between the conversation you are having and the stream. This also means that your video conversation in the backstage room will start streaming **30 seconds before it is visible in the main room**.
 
 Depending on how long the video presentation took, you might not have a lot of time to answer questions. Be sure to time this right so you can answer the most interesting questions live. You will not be able to stop the next talk from starting, as this is all FOSDEM magic.
