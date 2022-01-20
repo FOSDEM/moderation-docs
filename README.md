@@ -102,8 +102,13 @@ Click on _Message_ (in Dutch _Bericht_) to open a private chat room between you 
 You can tell them that they should remain on topic, nuance or remove the message. If necessary, you can also warn them that future violations will result in a ban.
 
 ### During the presentation
-_Image needed_
+![Backstage room.](/images/backstage.png "Backstage room.")
+_The backstage room. Click on the Video button to start a video conversation with the speaker._
+
 Start a video conversation in the _backstage_ room with the speaker. You can talk with them, but even if you don't do that, it will at least allow you to verify that both your and their audio and video setup are working.
+
+![Frontstage room.](/images/frontstage.png "Frontstage room.")
+_The front stage room. This is where the public is._
 
 ![New talk is due to start soon.](/images/announcement-next-talk.png "New talk is due to start soon.")
 The video will be started by the FOSDEM magicians automatically at the scheduled time. A bot will announce that the next talk is due to start. All talks are prerecorded, so during the talk the presenter is available to chat with in the _backstage_ room.
