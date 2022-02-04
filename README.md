@@ -114,7 +114,7 @@ _The front stage room. This is where the public is._
 The video will be started by the FOSDEM magicians automatically at the scheduled time. A bot will announce that the next talk is due to start. All talks are prerecorded, so during the talk the presenter is available to chat with in the _backstage_ room.
 
 ![An upvoted question.](/images/an-upvoted-question.png "An upvoted question.")
-During the talk, encourage attendees to ask questions and to upvote (messages can be upvated by reacting to the messages with a thumbs up, or downvote them with a thumbs down - see [here](https://fosdem.org/2022/practical/online/) for more details). You can discuss the questions with the speaker while the presentation is in progress in the _backstage_ room.
+During the talk, encourage attendees to ask questions and to upvote (messages can be upvoted by reacting to the messages with a thumbs up, or downvote them with a thumbs down - see [here](https://fosdem.org/2022/practical/online/) for more details). You can discuss the questions with the speaker while the presentation is in progress in the _backstage_ room.
 
 Speakers can always answer questions in the chat themselves during the presentation.
 
