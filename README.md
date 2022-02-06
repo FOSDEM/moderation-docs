@@ -35,10 +35,6 @@ To make sure we can automatically allow your account to preview the video's and 
 
 It can take some time before everything is configured correctly, as the changes are made with batch jobs. If it is urgent (e.g. during FOSDEM), contact us in the [_#infodesk_](https://chat.fosdem.org/#/room/#INFODESK:fosdem.org) channel on _chat.fosdem.org_.
 
-### Get in touch
-
-As soon as you have been confirmed as a host on one or more talks, get in touch with the speaker. Introduce yourself as the talk host to the speaker (we will provide you with a way to contact them) a few days before the conference, explaining what you will be doing during the conference.
-
 ### Watch the video
 Before the conference, take some time to watch the video so you know what it's about. If there is a problem with the video or the quality is not good, contact the speaker immediately.
 
@@ -65,6 +61,13 @@ You should have received three invitations. One is for the main (public) chat ro
  Ensure you are present and available at least 30 minutes before the talk is due to start, so that we know if something is wrong before the the presentation happens.
 
  If you are hosting multiple talks, you'll receive multiple invitations.
+ 
+#### Possible issues
+
+##### Speaker missing
+If the speaker is not in the room and it's close to when the talk is starting (5-10 minutes), let us know at the Infodesk channel. We'll try to contact the speaker, but if they don't show up it means **there will be no Q&A**. We suggest you announce this in the main public room ("frontstage").
+
+ Around 15 minutes before the talk is due to start, our bot will check if the speaker (as configured in Pentabarf) is in the talk room. If that's not the case, we'll get alerted and someone from staff will probably show up to check if everything is OK. Note that if we do so, we can't see the chat history, so you might have to repeat yourself.
 
 ### Moderating
 One of your more important jobs is moderating the chat. Usually FOSDEM attendees are civil and keep their discussions mostly on topic. However, from time to time they will need reminding or even are downright disruptive. You have some tools available in dealing with them.
