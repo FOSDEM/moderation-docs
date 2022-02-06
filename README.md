@@ -4,13 +4,14 @@ Welcome to FOSDEM and thank you for volunteering to moderate talk chatrooms on [
  1. [In a nutshell](#In-a-nutshell)
  2. [Before the conference](#Before-the-conference)
     1. [An account on Pentabarf](#An-account-on-Pentabarf)
-    2. [Link your account on volunteers.fosdem.org](#Link-your-account-on-volunteers.fosdem.org)
-    3. [Get in touch](#Get-in-touch)
-    4. [Watch the video](#Watch-the-video)
+    2. [An account on chat.fosdem.org](#An-account-on-chat.fosdem.org)
+    3. [Link your account on volunteers.fosdem.org](#Link-your-account-on-volunteers.fosdem.org)
+    4. [Get in touch](#Get-in-touch)
+    5. [Watch the video](#Watch-the-video)
  3. [During the conference](#During-the-conference)
     1. [The chatroom](#The-chatroom)
-      1. [Possible issues](#Possible-issues)
-        1. [Speaker missing](#Speaker-missing)
+         1. [Possible issues](#Possible-issues)
+              1. [Speaker missing](#Speaker-missing)
     2. [Moderating](#Moderating)
     3. [During the presentation](#During-the-presentation)
     4. [During the Q&A](#During-the-Q-A)
@@ -30,6 +31,9 @@ Before you can begin, you must create an account on [penta.fosdem.org](https://p
 Go to [penta.fosdem.org/submission/FOSDEM22](https://penta.fosdem.org/submission/FOSDEM22) to create an account. Fill in all the details and ensure you confirm your account.
 
 If you already have an account (Pentabarf uses e-mail as primary identification), you can log in with your e-mail address and your password.
+
+### An account on chat.fosdem.org
+You need an account on chat.fosdem.org (or any other Matrix ID). You must make sure that the correct Matrix ID is on your Pentabarf profile, as that is the one will import.
 
 ### Link your account on volunteers.fosdem.org
 ![Link your account on volunteers.fosdem.org](/images/volunteers-account.png "Link your account on volunteers.fosdem.org.")
@@ -68,6 +72,8 @@ You should have received three invitations. One is for the main (public) chat ro
 
 ##### Speaker missing
 If the speaker is not in the room and it's close to when the talk is starting (5-10 minutes), let us know at the Infodesk channel. We'll try to contact the speaker, but if they don't show up it means **there will be no Q&A**. We suggest you announce this in the main public room ("frontstage").
+ 
+ Another possibility is that they have multiple Matrix ID's and the wrong one is in Penta. Contact a staff member via the Infodesk channel to fix that.
 
  Around 15 minutes before the talk is due to start, our bot will check if the speaker (as configured in Pentabarf) is in the talk room. If that's not the case, we'll get alerted and someone from staff will probably show up to check if everything is OK. Note that if we do so, we can't see the chat history, so you might have to repeat yourself.
 
