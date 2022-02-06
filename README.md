@@ -9,6 +9,8 @@ Welcome to FOSDEM and thank you for volunteering to moderate talk chatrooms on [
     4. [Watch the video](#Watch-the-video)
  3. [During the conference](#During-the-conference)
     1. [The chatroom](#The-chatroom)
+      1. [Possible issues](#Possible-issues)
+        1. [Speaker missing](#Speaker-missing)
     2. [Moderating](#Moderating)
     3. [During the presentation](#During-the-presentation)
     4. [During the Q&A](#During-the-Q-A)
